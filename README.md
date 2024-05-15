@@ -29,5 +29,5 @@ I chose to take the Python course for several reasons:
 
 PS: **Thank you Gabor** for giving me the opportunity to participate to this course.
 
-
+[](/windows)
 
