@@ -1,4 +1,4 @@
-Hi welcome in my Github website, 
+Hi 👋 welcome in my Github website, 
 
 My name is Orlena. 
 
@@ -28,7 +28,5 @@ I chose to take the Python course for several reasons:
 
 PS: **Thank you Gabor** for giving me the opportunity to participate to this course.
 
-body {
-    background-color: #add8e6; /* Light blue color */
-}
+
 
