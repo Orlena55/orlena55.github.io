@@ -12,6 +12,7 @@ I am a PhD student in Dr.Ofer Shoshani lab. I started my PhD a year ago and stud
 
   I am a **French** woman born in Paris. I lived half of my life in Toulouse, a city in the south of France called the "pink city" because the walls are pink/red in the sun.
 ![](https://a.travel-assets.com/findyours-php/viewfinder/images/res70/266000/266415-Toulouse.jpg)
+If you ask yourself who is the woman on the picture ? Good question, I don't know myself. 
 
 * # My research
   
