@@ -18,7 +18,7 @@ I am a PhD student in Dr.Ofer Shoshani lab. I started my PhD a year ago and stud
 In our lab, we study gene amplification and all types of genomic catastrophes that can induce the development of tumors. We are a relatively young lab, around 3 years old, if you want more information, you can visit our site:
 [site](https://www.weizmann.ac.il/Biomolecular_Sciences/Shoshani/home)
 
-You can find an other student from my lab here which also participate to this course: [site](https://adibarelmeisel.github.io/)
+You can find an other student from this course: Adi [site](https://adibarelmeisel.github.io/)
 
 * # Python course
   
@@ -29,4 +29,10 @@ I chose to take the Python course for several reasons:
 PS: **Thank you Gabor** for giving me the opportunity to participate to this course.
 
 
+<div align="right">
+<table>
+<td align="center" width="500px">
+<div align="right"><a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Stars of Malachite Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/star-solid.svg"/> <img height="17" src="https://img.shields.io/github/stars/MyThemeWay/mtw-canvas-malachite?label=&cacheSeconds=3600"/></a> <a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Forks of Malachite Canvas" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/3parties/code-branch-solid.svg"/> <img height="17" src="https://img.shields.io/github/forks/MyThemeWay/mtw-canvas-malachite?label=&cacheSeconds=3600"/></a> <a href="https://github.com/MyThemeWay/mtw-canvas-malachite#embed-via-jsdelivr" title="jsDelivr Hits of Malachite Canvas" target="_blank"> <img height="17" src="https://img.shields.io/jsdelivr/gh/hy/mythemeway/mtw-canvas-malachite?label=Hits&color=blue&logo=jsdelivr&cacheSeconds=3600" /></a></div>
+
+DNA.PNG
 
