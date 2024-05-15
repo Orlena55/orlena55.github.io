@@ -1,10 +1,12 @@
-Hi, my name is Orlena, 
+Hi welcome in my Github website, 
+
+My name is Orlena. 
 
 ![](moi photo.PNG)
 
 * # Who I am?
   
-I am a PhD student in Dr.Ofer Shoshani lab. I started my PhD a year ago and study biogenesis of Gene amplification and his role in the development of cancer. 
+I am a PhD student in Dr.Ofer Shoshani lab. I started my PhD a year ago and study biogenesis of Gene amplification and it role in the development of cancer. 
 
 * # My home
 
